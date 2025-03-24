@@ -8,7 +8,7 @@ let package = Package(
   platforms: [
     // Add all of the operating systems that (I recall) have Metal.
     .iOS(.v17),
-    .macOS(.v14),
+    .macOS(.v15),
     .tvOS(.v17),
     .visionOS(.v1),
   ],
